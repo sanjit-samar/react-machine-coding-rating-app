@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.star-container {
+  color: black;
+  font-size: 5em;
+  cursor: pointer;
+}
+
+.star {
+}
+
+.selected-star {
+  color: golden;
+}
