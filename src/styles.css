@@ -4,14 +4,14 @@
 }
 
 .star-container {
-  color: black;
   font-size: 5em;
   cursor: pointer;
 }
 
 .star {
+  color: grey;
 }
 
-.selected-star {
-  color: golden;
+.star.selected {
+  color: gold;
 }
